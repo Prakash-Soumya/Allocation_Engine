@@ -1,0 +1,1001 @@
+User_ID,Start_DateTime,End_DateTime,Type,Location
+user170@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Gold Coast
+user193@example.com,10/02/2027 17:30,10/02/2027 18:00,Online,Geelong
+user058@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Sydney CBD
+user012@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Geelong
+user197@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Gold Coast
+user162@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Canberra
+user127@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Canberra
+user168@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Parramatta
+user057@example.com,10/02/2027 08:00,10/02/2027 08:30,In-Person,Canberra
+user119@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Gold Coast
+user032@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Parramatta
+user171@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Canberra
+user082@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Gold Coast
+user110@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Gold Coast
+user191@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Parramatta
+user193@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Sydney CBD
+user197@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Sydney CBD
+user071@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Parramatta
+user061@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Sydney CBD
+user139@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Sydney CBD
+user060@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Parramatta
+user181@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Parramatta
+user105@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Canberra
+user107@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Canberra
+user100@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Canberra
+user196@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Geelong
+user002@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Canberra
+user108@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Canberra
+user155@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Gold Coast
+user070@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Parramatta
+user100@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Geelong
+user186@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Canberra
+user160@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Parramatta
+user152@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Canberra
+user022@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Geelong
+user047@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Canberra
+user084@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Canberra
+user087@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Sydney CBD
+user065@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Canberra
+user192@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Geelong
+user058@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Sydney CBD
+user194@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Geelong
+user006@example.com,10/02/2027 08:00,10/02/2027 08:30,In-Person,Parramatta
+user033@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Parramatta
+user145@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Geelong
+user197@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Sydney CBD
+user156@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Gold Coast
+user028@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Sydney CBD
+user148@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Sydney CBD
+user020@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Parramatta
+user027@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Parramatta
+user031@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Gold Coast
+user137@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Sydney CBD
+user018@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Sydney CBD
+user004@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Sydney CBD
+user111@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Geelong
+user182@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Canberra
+user188@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Parramatta
+user158@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Sydney CBD
+user112@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Canberra
+user063@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Sydney CBD
+user063@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Canberra
+user172@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Gold Coast
+user127@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Geelong
+user055@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Canberra
+user072@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Sydney CBD
+user143@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Sydney CBD
+user022@example.com,10/02/2027 08:00,10/02/2027 08:30,All,Parramatta
+user126@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Canberra
+user166@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Canberra
+user024@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Geelong
+user178@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Canberra
+user095@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Gold Coast
+user089@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Gold Coast
+user085@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Gold Coast
+user070@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Canberra
+user031@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Parramatta
+user191@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Geelong
+user050@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Parramatta
+user071@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Canberra
+user073@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Gold Coast
+user059@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Sydney CBD
+user004@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Sydney CBD
+user012@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Sydney CBD
+user179@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Sydney CBD
+user027@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Canberra
+user121@example.com,10/02/2027 08:00,10/02/2027 08:30,All,Sydney CBD
+user048@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Sydney CBD
+user030@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Canberra
+user019@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Canberra
+user039@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Geelong
+user022@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Sydney CBD
+user196@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Gold Coast
+user159@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Gold Coast
+user116@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Canberra
+user110@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Gold Coast
+user016@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Gold Coast
+user196@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Geelong
+user068@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Parramatta
+user045@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Parramatta
+user001@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Parramatta
+user121@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Gold Coast
+user074@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Parramatta
+user019@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Canberra
+user170@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Gold Coast
+user140@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Geelong
+user069@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Parramatta
+user043@example.com,10/02/2027 10:00,10/02/2027 10:30,In-Person,Geelong
+user074@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Gold Coast
+user177@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Canberra
+user070@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Canberra
+user113@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Canberra
+user111@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Geelong
+user007@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Sydney CBD
+user151@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Gold Coast
+user148@example.com,10/02/2027 08:00,10/02/2027 08:30,All,Sydney CBD
+user133@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Canberra
+user150@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Parramatta
+user024@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Canberra
+user086@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Canberra
+user042@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Geelong
+user074@example.com,10/02/2027 13:00,10/02/2027 13:30,Online,Canberra
+user117@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Geelong
+user083@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Sydney CBD
+user001@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Gold Coast
+user014@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Canberra
+user160@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Sydney CBD
+user195@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Canberra
+user141@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Sydney CBD
+user179@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Canberra
+user162@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Geelong
+user080@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Parramatta
+user105@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Gold Coast
+user119@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Geelong
+user128@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Parramatta
+user107@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Sydney CBD
+user117@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Parramatta
+user049@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Canberra
+user018@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Parramatta
+user130@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Sydney CBD
+user186@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Sydney CBD
+user169@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Gold Coast
+user138@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Canberra
+user142@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Sydney CBD
+user083@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Canberra
+user147@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Parramatta
+user012@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Canberra
+user181@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Canberra
+user127@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Parramatta
+user152@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Gold Coast
+user026@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Canberra
+user185@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Geelong
+user020@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Parramatta
+user160@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Sydney CBD
+user085@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Geelong
+user161@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Sydney CBD
+user159@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Geelong
+user059@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Sydney CBD
+user195@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Geelong
+user178@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Parramatta
+user084@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Geelong
+user096@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Sydney CBD
+user136@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Parramatta
+user044@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Parramatta
+user098@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Gold Coast
+user128@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Parramatta
+user119@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Parramatta
+user171@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Sydney CBD
+user174@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Sydney CBD
+user114@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Geelong
+user164@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Sydney CBD
+user117@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Sydney CBD
+user124@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Canberra
+user147@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Canberra
+user180@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Sydney CBD
+user071@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Canberra
+user156@example.com,10/02/2027 08:00,10/02/2027 08:30,All,Geelong
+user156@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Parramatta
+user159@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Parramatta
+user161@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Parramatta
+user080@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Geelong
+user094@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Gold Coast
+user084@example.com,10/02/2027 10:00,10/02/2027 10:30,In-Person,Sydney CBD
+user034@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Parramatta
+user129@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Gold Coast
+user124@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Sydney CBD
+user030@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Sydney CBD
+user194@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Parramatta
+user143@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Canberra
+user004@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Canberra
+user117@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Geelong
+user150@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Sydney CBD
+user028@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Sydney CBD
+user159@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Geelong
+user057@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Gold Coast
+user180@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Canberra
+user030@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Canberra
+user078@example.com,10/02/2027 10:00,10/02/2027 10:30,In-Person,Geelong
+user061@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Geelong
+user117@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Canberra
+user108@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Gold Coast
+user107@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Parramatta
+user105@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Gold Coast
+user056@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Sydney CBD
+user093@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Parramatta
+user140@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Sydney CBD
+user071@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Canberra
+user024@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Canberra
+user006@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Gold Coast
+user033@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Parramatta
+user196@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Geelong
+user056@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Gold Coast
+user153@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Parramatta
+user034@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Parramatta
+user029@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Parramatta
+user092@example.com,10/02/2027 08:00,10/02/2027 08:30,In-Person,Geelong
+user005@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Sydney CBD
+user033@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Geelong
+user191@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Geelong
+user200@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Canberra
+user028@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Gold Coast
+user158@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Parramatta
+user078@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Gold Coast
+user016@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Geelong
+user176@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Canberra
+user019@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Canberra
+user038@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Gold Coast
+user160@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Sydney CBD
+user098@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Sydney CBD
+user117@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Sydney CBD
+user026@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Canberra
+user185@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Gold Coast
+user059@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Canberra
+user103@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Canberra
+user081@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Geelong
+user096@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Sydney CBD
+user018@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Canberra
+user111@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Geelong
+user034@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Sydney CBD
+user144@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Gold Coast
+user106@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Geelong
+user185@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Canberra
+user080@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Gold Coast
+user130@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Gold Coast
+user058@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Canberra
+user095@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Gold Coast
+user058@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Gold Coast
+user158@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Gold Coast
+user169@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Gold Coast
+user070@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Parramatta
+user002@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Sydney CBD
+user169@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Gold Coast
+user190@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Parramatta
+user056@example.com,10/02/2027 08:00,10/02/2027 08:30,In-Person,Gold Coast
+user088@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Canberra
+user185@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Sydney CBD
+user022@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Gold Coast
+user194@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Parramatta
+user070@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Geelong
+user125@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Canberra
+user070@example.com,10/02/2027 17:30,10/02/2027 18:00,Online,Canberra
+user089@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Geelong
+user174@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Sydney CBD
+user171@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Gold Coast
+user102@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Parramatta
+user053@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Geelong
+user196@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Parramatta
+user031@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Sydney CBD
+user045@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Canberra
+user181@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Gold Coast
+user172@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Gold Coast
+user190@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Canberra
+user118@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Geelong
+user110@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Gold Coast
+user075@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Canberra
+user084@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Geelong
+user177@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Canberra
+user028@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Canberra
+user103@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Gold Coast
+user080@example.com,10/02/2027 16:00,10/02/2027 16:30,In-Person,Canberra
+user200@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Sydney CBD
+user163@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Gold Coast
+user050@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Gold Coast
+user061@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Parramatta
+user051@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Sydney CBD
+user195@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Parramatta
+user119@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Canberra
+user175@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Canberra
+user083@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Gold Coast
+user018@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Canberra
+user071@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Sydney CBD
+user130@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Sydney CBD
+user116@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Canberra
+user074@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Sydney CBD
+user158@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Geelong
+user119@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Canberra
+user116@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Geelong
+user083@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Parramatta
+user039@example.com,10/02/2027 17:30,10/02/2027 18:00,Online,Gold Coast
+user088@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Geelong
+user011@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Parramatta
+user113@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Canberra
+user041@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Gold Coast
+user100@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Sydney CBD
+user014@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Gold Coast
+user025@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Sydney CBD
+user073@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Canberra
+user039@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Gold Coast
+user170@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Gold Coast
+user168@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Sydney CBD
+user182@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Gold Coast
+user097@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Gold Coast
+user024@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Gold Coast
+user005@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Sydney CBD
+user055@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Parramatta
+user058@example.com,10/02/2027 13:00,10/02/2027 13:30,Online,Parramatta
+user076@example.com,10/02/2027 10:00,10/02/2027 10:30,In-Person,Geelong
+user190@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Gold Coast
+user197@example.com,10/02/2027 16:00,10/02/2027 16:30,In-Person,Sydney CBD
+user097@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Gold Coast
+user178@example.com,10/02/2027 10:00,10/02/2027 10:30,In-Person,Parramatta
+user012@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Canberra
+user114@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Parramatta
+user060@example.com,10/02/2027 17:30,10/02/2027 18:00,Online,Canberra
+user121@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Sydney CBD
+user113@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Gold Coast
+user129@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Canberra
+user052@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Parramatta
+user014@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Sydney CBD
+user027@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Gold Coast
+user022@example.com,10/02/2027 16:00,10/02/2027 16:30,In-Person,Sydney CBD
+user132@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Canberra
+user057@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Geelong
+user107@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Geelong
+user096@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Gold Coast
+user096@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Geelong
+user026@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Sydney CBD
+user010@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Parramatta
+user195@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Parramatta
+user002@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Gold Coast
+user056@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Sydney CBD
+user136@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Gold Coast
+user061@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Sydney CBD
+user062@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Geelong
+user118@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Gold Coast
+user153@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Canberra
+user148@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Gold Coast
+user075@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Parramatta
+user091@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Gold Coast
+user048@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Canberra
+user018@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Sydney CBD
+user130@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Gold Coast
+user121@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Canberra
+user096@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Canberra
+user092@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Geelong
+user188@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Parramatta
+user035@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Sydney CBD
+user087@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Gold Coast
+user179@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Canberra
+user035@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Parramatta
+user010@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Canberra
+user052@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Geelong
+user132@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Sydney CBD
+user065@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Canberra
+user074@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Parramatta
+user070@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Sydney CBD
+user103@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Canberra
+user048@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Sydney CBD
+user095@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Canberra
+user187@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Geelong
+user155@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Canberra
+user083@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Sydney CBD
+user170@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Sydney CBD
+user155@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Canberra
+user090@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Canberra
+user158@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Sydney CBD
+user020@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Geelong
+user192@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Gold Coast
+user156@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Parramatta
+user018@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Parramatta
+user093@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Sydney CBD
+user155@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Geelong
+user095@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Canberra
+user147@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Geelong
+user102@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Sydney CBD
+user064@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Sydney CBD
+user128@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Parramatta
+user031@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Gold Coast
+user055@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Canberra
+user052@example.com,10/02/2027 17:30,10/02/2027 18:00,Online,Canberra
+user116@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Geelong
+user023@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Canberra
+user182@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Sydney CBD
+user075@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Gold Coast
+user093@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Parramatta
+user052@example.com,10/02/2027 16:00,10/02/2027 16:30,In-Person,Geelong
+user007@example.com,10/02/2027 10:00,10/02/2027 10:30,In-Person,Canberra
+user095@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Gold Coast
+user157@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Parramatta
+user102@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Sydney CBD
+user197@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Canberra
+user033@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Geelong
+user116@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Geelong
+user089@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Gold Coast
+user047@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Gold Coast
+user015@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Gold Coast
+user078@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Parramatta
+user182@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Sydney CBD
+user073@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Gold Coast
+user163@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Parramatta
+user161@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Parramatta
+user024@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Gold Coast
+user152@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Parramatta
+user169@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Parramatta
+user087@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Gold Coast
+user021@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Geelong
+user068@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Gold Coast
+user159@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Canberra
+user075@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Gold Coast
+user176@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Parramatta
+user019@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Canberra
+user107@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Canberra
+user088@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Parramatta
+user184@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Sydney CBD
+user103@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Sydney CBD
+user144@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Gold Coast
+user120@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Parramatta
+user064@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Canberra
+user075@example.com,10/02/2027 10:00,10/02/2027 10:30,In-Person,Geelong
+user064@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Canberra
+user185@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Gold Coast
+user128@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Parramatta
+user079@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Canberra
+user101@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Geelong
+user056@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Parramatta
+user013@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Geelong
+user168@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Gold Coast
+user003@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Gold Coast
+user068@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Parramatta
+user012@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Sydney CBD
+user144@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Gold Coast
+user074@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Gold Coast
+user116@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Gold Coast
+user175@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Gold Coast
+user025@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Parramatta
+user143@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Sydney CBD
+user155@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Parramatta
+user011@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Gold Coast
+user183@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Parramatta
+user117@example.com,10/02/2027 13:00,10/02/2027 13:30,Online,Gold Coast
+user036@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Gold Coast
+user042@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Sydney CBD
+user152@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Sydney CBD
+user137@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Gold Coast
+user077@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Gold Coast
+user085@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Sydney CBD
+user079@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Gold Coast
+user068@example.com,10/02/2027 08:00,10/02/2027 08:30,All,Canberra
+user185@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Parramatta
+user044@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Canberra
+user199@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Gold Coast
+user009@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Parramatta
+user049@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Geelong
+user108@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Sydney CBD
+user106@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Parramatta
+user189@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Canberra
+user133@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Parramatta
+user170@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Sydney CBD
+user081@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Canberra
+user088@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Gold Coast
+user157@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Sydney CBD
+user072@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Parramatta
+user077@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Parramatta
+user177@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Parramatta
+user090@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Canberra
+user074@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Sydney CBD
+user098@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Gold Coast
+user075@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Parramatta
+user089@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Geelong
+user192@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Sydney CBD
+user138@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Parramatta
+user036@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Sydney CBD
+user062@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Gold Coast
+user058@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Gold Coast
+user106@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Geelong
+user026@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Canberra
+user041@example.com,10/02/2027 10:00,10/02/2027 10:30,In-Person,Gold Coast
+user123@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Canberra
+user074@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Sydney CBD
+user060@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Gold Coast
+user045@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Geelong
+user102@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Geelong
+user010@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Sydney CBD
+user155@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Gold Coast
+user117@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Sydney CBD
+user035@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Canberra
+user050@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Sydney CBD
+user188@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Parramatta
+user184@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Sydney CBD
+user076@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Sydney CBD
+user045@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Parramatta
+user110@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Canberra
+user103@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Geelong
+user123@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Parramatta
+user067@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Geelong
+user193@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Canberra
+user150@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Sydney CBD
+user168@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Sydney CBD
+user016@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Parramatta
+user041@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Sydney CBD
+user181@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Gold Coast
+user164@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Geelong
+user057@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Gold Coast
+user040@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Canberra
+user096@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Gold Coast
+user121@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Gold Coast
+user196@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Parramatta
+user021@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Gold Coast
+user181@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Gold Coast
+user029@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Gold Coast
+user052@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Gold Coast
+user043@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Parramatta
+user030@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Canberra
+user126@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Gold Coast
+user015@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Canberra
+user107@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Gold Coast
+user144@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Geelong
+user186@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Sydney CBD
+user001@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Sydney CBD
+user012@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Geelong
+user139@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Geelong
+user009@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Canberra
+user197@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Parramatta
+user096@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Canberra
+user097@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Canberra
+user035@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Gold Coast
+user138@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Parramatta
+user187@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Parramatta
+user077@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Geelong
+user109@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Gold Coast
+user064@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Parramatta
+user071@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Parramatta
+user009@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Geelong
+user062@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Geelong
+user153@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Geelong
+user173@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Gold Coast
+user103@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Geelong
+user056@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Gold Coast
+user075@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Gold Coast
+user082@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Gold Coast
+user061@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Sydney CBD
+user057@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Gold Coast
+user016@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Sydney CBD
+user161@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Parramatta
+user013@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Canberra
+user135@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Canberra
+user105@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Canberra
+user048@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Canberra
+user058@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Parramatta
+user119@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Parramatta
+user107@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Canberra
+user100@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Parramatta
+user085@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Parramatta
+user024@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Sydney CBD
+user014@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Parramatta
+user155@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Gold Coast
+user195@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Parramatta
+user056@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Gold Coast
+user078@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Sydney CBD
+user190@example.com,10/02/2027 08:00,10/02/2027 08:30,In-Person,Parramatta
+user063@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Canberra
+user102@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Parramatta
+user199@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Sydney CBD
+user137@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Canberra
+user093@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Sydney CBD
+user026@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Canberra
+user095@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Parramatta
+user145@example.com,10/02/2027 13:00,10/02/2027 13:30,Online,Geelong
+user005@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Parramatta
+user149@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Gold Coast
+user051@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Parramatta
+user146@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Canberra
+user168@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Gold Coast
+user186@example.com,10/02/2027 13:00,10/02/2027 13:30,Online,Canberra
+user188@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Parramatta
+user185@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Parramatta
+user139@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Parramatta
+user020@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Geelong
+user036@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Canberra
+user003@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Parramatta
+user096@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Canberra
+user124@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Gold Coast
+user137@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Geelong
+user005@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Geelong
+user138@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Sydney CBD
+user179@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Gold Coast
+user025@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Geelong
+user050@example.com,10/02/2027 16:00,10/02/2027 16:30,In-Person,Parramatta
+user091@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Sydney CBD
+user096@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Geelong
+user063@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Gold Coast
+user168@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Geelong
+user098@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Canberra
+user015@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Canberra
+user022@example.com,10/02/2027 08:00,10/02/2027 08:30,All,Parramatta
+user145@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Sydney CBD
+user059@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Geelong
+user122@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Gold Coast
+user176@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Geelong
+user169@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Gold Coast
+user005@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Sydney CBD
+user193@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Parramatta
+user042@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Sydney CBD
+user100@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Gold Coast
+user194@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Canberra
+user129@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Geelong
+user112@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Geelong
+user155@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Sydney CBD
+user199@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Canberra
+user116@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Sydney CBD
+user142@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Sydney CBD
+user175@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Parramatta
+user022@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Canberra
+user183@example.com,10/02/2027 17:30,10/02/2027 18:00,Online,Parramatta
+user040@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Sydney CBD
+user190@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Parramatta
+user028@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Sydney CBD
+user114@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Sydney CBD
+user034@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Geelong
+user115@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Canberra
+user105@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Gold Coast
+user091@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Geelong
+user154@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Gold Coast
+user075@example.com,10/02/2027 13:00,10/02/2027 13:30,Online,Geelong
+user186@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Geelong
+user134@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Gold Coast
+user044@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Canberra
+user069@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Sydney CBD
+user043@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Geelong
+user077@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Canberra
+user065@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Sydney CBD
+user153@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Canberra
+user028@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Canberra
+user102@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Geelong
+user085@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Canberra
+user167@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Canberra
+user083@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Sydney CBD
+user123@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Parramatta
+user082@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Canberra
+user148@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Canberra
+user072@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Canberra
+user145@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Geelong
+user047@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Gold Coast
+user182@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Canberra
+user178@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Sydney CBD
+user036@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Canberra
+user169@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Sydney CBD
+user097@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Canberra
+user123@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Gold Coast
+user130@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Gold Coast
+user093@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Geelong
+user028@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Geelong
+user043@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Sydney CBD
+user166@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Gold Coast
+user028@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Canberra
+user057@example.com,10/02/2027 08:00,10/02/2027 08:30,In-Person,Sydney CBD
+user143@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Gold Coast
+user057@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Gold Coast
+user119@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Canberra
+user039@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Gold Coast
+user027@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Canberra
+user030@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Geelong
+user088@example.com,10/02/2027 10:00,10/02/2027 10:30,Online,Sydney CBD
+user124@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Gold Coast
+user113@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Geelong
+user077@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Geelong
+user006@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Geelong
+user174@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Geelong
+user133@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Parramatta
+user085@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Parramatta
+user060@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Canberra
+user048@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Parramatta
+user189@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Geelong
+user152@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Canberra
+user181@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Geelong
+user193@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Sydney CBD
+user138@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Geelong
+user051@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Sydney CBD
+user172@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Sydney CBD
+user153@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Sydney CBD
+user151@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Canberra
+user118@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Sydney CBD
+user158@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Sydney CBD
+user081@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Parramatta
+user030@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Sydney CBD
+user131@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Parramatta
+user036@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Gold Coast
+user048@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Canberra
+user178@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Gold Coast
+user126@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Parramatta
+user081@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Parramatta
+user092@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Geelong
+user050@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Parramatta
+user168@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Gold Coast
+user107@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Canberra
+user022@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Parramatta
+user075@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Parramatta
+user138@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Parramatta
+user145@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Canberra
+user029@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Gold Coast
+user199@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Sydney CBD
+user194@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Gold Coast
+user140@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Canberra
+user189@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Geelong
+user116@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Geelong
+user113@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Geelong
+user189@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Parramatta
+user182@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Sydney CBD
+user043@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Canberra
+user053@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Parramatta
+user137@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Sydney CBD
+user044@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Gold Coast
+user075@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Sydney CBD
+user174@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Gold Coast
+user016@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Canberra
+user180@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Parramatta
+user183@example.com,10/02/2027 10:00,10/02/2027 10:30,In-Person,Parramatta
+user126@example.com,10/02/2027 13:00,10/02/2027 13:30,In-Person,Canberra
+user161@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Sydney CBD
+user020@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Canberra
+user192@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Gold Coast
+user117@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Sydney CBD
+user001@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Gold Coast
+user163@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Canberra
+user102@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Gold Coast
+user127@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Parramatta
+user087@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Sydney CBD
+user145@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Parramatta
+user012@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Geelong
+user005@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Canberra
+user117@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Canberra
+user177@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Parramatta
+user041@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Sydney CBD
+user065@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Sydney CBD
+user014@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Parramatta
+user186@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Sydney CBD
+user181@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Geelong
+user123@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Parramatta
+user058@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Gold Coast
+user003@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Canberra
+user031@example.com,10/02/2027 08:00,10/02/2027 08:30,All,Sydney CBD
+user123@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Parramatta
+user023@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Canberra
+user095@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Sydney CBD
+user199@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Canberra
+user018@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Parramatta
+user157@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Geelong
+user185@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Sydney CBD
+user106@example.com,10/02/2027 11:00,10/02/2027 11:30,All,Parramatta
+user056@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Canberra
+user193@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Parramatta
+user090@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Canberra
+user064@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Parramatta
+user064@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Geelong
+user185@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Gold Coast
+user169@example.com,10/02/2027 17:30,10/02/2027 18:00,Online,Geelong
+user156@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Gold Coast
+user076@example.com,10/02/2027 16:00,10/02/2027 16:30,In-Person,Canberra
+user099@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Canberra
+user164@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Canberra
+user004@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Gold Coast
+user100@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Parramatta
+user140@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Sydney CBD
+user005@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Geelong
+user068@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Geelong
+user102@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Geelong
+user197@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Gold Coast
+user022@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Canberra
+user040@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Gold Coast
+user021@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Sydney CBD
+user138@example.com,10/02/2027 16:00,10/02/2027 16:30,In-Person,Parramatta
+user163@example.com,10/02/2027 13:00,10/02/2027 13:30,Online,Gold Coast
+user187@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Canberra
+user023@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Parramatta
+user157@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Canberra
+user171@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Sydney CBD
+user182@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Geelong
+user042@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Geelong
+user133@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Gold Coast
+user033@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Sydney CBD
+user198@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Geelong
+user070@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Canberra
+user183@example.com,10/02/2027 16:00,10/02/2027 16:30,In-Person,Sydney CBD
+user128@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Geelong
+user015@example.com,10/02/2027 15:00,10/02/2027 15:30,All,Sydney CBD
+user095@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Parramatta
+user147@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Geelong
+user001@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Gold Coast
+user012@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Parramatta
+user039@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Canberra
+user183@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Gold Coast
+user064@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Sydney CBD
+user070@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Sydney CBD
+user031@example.com,10/02/2027 09:00,10/02/2027 09:30,All,Sydney CBD
+user046@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Geelong
+user103@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Geelong
+user199@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Sydney CBD
+user142@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Geelong
+user052@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Sydney CBD
+user190@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Sydney CBD
+user095@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Canberra
+user188@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Parramatta
+user002@example.com,10/02/2027 16:30,10/02/2027 17:00,In-Person,Parramatta
+user139@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Parramatta
+user086@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Geelong
+user189@example.com,10/02/2027 08:00,10/02/2027 08:30,All,Canberra
+user136@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Parramatta
+user016@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Canberra
+user024@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Sydney CBD
+user106@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Gold Coast
+user149@example.com,10/02/2027 13:30,10/02/2027 14:00,Online,Geelong
+user164@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Parramatta
+user146@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Gold Coast
+user061@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Parramatta
+user101@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Sydney CBD
+user070@example.com,10/02/2027 13:00,10/02/2027 13:30,Online,Canberra
+user035@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Parramatta
+user028@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Parramatta
+user081@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Canberra
+user092@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Gold Coast
+user119@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Sydney CBD
+user041@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Geelong
+user011@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Gold Coast
+user024@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Parramatta
+user132@example.com,10/02/2027 11:30,10/02/2027 12:00,Online,Canberra
+user067@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Sydney CBD
+user116@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Canberra
+user064@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Gold Coast
+user036@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Geelong
+user200@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Geelong
+user103@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Parramatta
+user150@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Geelong
+user006@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Geelong
+user033@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Canberra
+user011@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Geelong
+user147@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Parramatta
+user128@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Canberra
+user045@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Canberra
+user071@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Parramatta
+user009@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Parramatta
+user063@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Gold Coast
+user141@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Canberra
+user072@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Geelong
+user052@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Canberra
+user005@example.com,10/02/2027 16:00,10/02/2027 16:30,In-Person,Gold Coast
+user123@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Sydney CBD
+user145@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Sydney CBD
+user070@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Canberra
+user153@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Sydney CBD
+user015@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Sydney CBD
+user197@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Sydney CBD
+user026@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Parramatta
+user069@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Parramatta
+user196@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Geelong
+user091@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Canberra
+user152@example.com,10/02/2027 10:30,10/02/2027 11:00,In-Person,Parramatta
+user152@example.com,10/02/2027 13:00,10/02/2027 13:30,All,Sydney CBD
+user146@example.com,10/02/2027 08:00,10/02/2027 08:30,All,Sydney CBD
+user049@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Gold Coast
+user045@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Sydney CBD
+user015@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Geelong
+user006@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Parramatta
+user085@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Geelong
+user088@example.com,10/02/2027 17:30,10/02/2027 18:00,In-Person,Parramatta
+user006@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Geelong
+user199@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Parramatta
+user019@example.com,10/02/2027 09:30,10/02/2027 10:00,All,Sydney CBD
+user151@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Canberra
+user083@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Sydney CBD
+user164@example.com,10/02/2027 10:00,10/02/2027 10:30,In-Person,Canberra
+user045@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Sydney CBD
+user092@example.com,10/02/2027 16:30,10/02/2027 17:00,All,Gold Coast
+user045@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Gold Coast
+user033@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Sydney CBD
+user180@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Geelong
+user009@example.com,10/02/2027 17:00,10/02/2027 17:30,Online,Gold Coast
+user157@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Sydney CBD
+user027@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Gold Coast
+user191@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Sydney CBD
+user082@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Sydney CBD
+user182@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Geelong
+user068@example.com,10/02/2027 13:00,10/02/2027 13:30,Online,Geelong
+user090@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Geelong
+user013@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Geelong
+user043@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Canberra
+user090@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Canberra
+user123@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Geelong
+user042@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Parramatta
+user076@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Geelong
+user027@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Sydney CBD
+user097@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Parramatta
+user141@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Geelong
+user158@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Gold Coast
+user111@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Geelong
+user041@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Canberra
+user053@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Sydney CBD
+user185@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Gold Coast
+user077@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Sydney CBD
+user101@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Geelong
+user040@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Canberra
+user110@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Geelong
+user123@example.com,10/02/2027 09:00,10/02/2027 09:30,Online,Gold Coast
+user053@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Geelong
+user021@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Sydney CBD
+user102@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Sydney CBD
+user024@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Sydney CBD
+user095@example.com,10/02/2027 16:30,10/02/2027 17:00,Online,Parramatta
+user115@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Parramatta
+user120@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Canberra
+user145@example.com,10/02/2027 12:00,10/02/2027 12:30,In-Person,Sydney CBD
+user022@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Geelong
+user194@example.com,10/02/2027 13:30,10/02/2027 14:00,All,Canberra
+user016@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Gold Coast
+user138@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Canberra
+user122@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Parramatta
+user183@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Canberra
+user133@example.com,10/02/2027 08:30,10/02/2027 09:00,All,Gold Coast
+user038@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Gold Coast
+user043@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Parramatta
+user011@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Parramatta
+user052@example.com,10/02/2027 14:30,10/02/2027 15:00,In-Person,Canberra
+user082@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Sydney CBD
+user143@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Canberra
+user071@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Sydney CBD
+user180@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Geelong
+user108@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Gold Coast
+user038@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Parramatta
+user195@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Gold Coast
+user200@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Gold Coast
+user089@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Gold Coast
+user168@example.com,10/02/2027 14:30,10/02/2027 15:00,Online,Canberra
+user122@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Gold Coast
+user104@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Sydney CBD
+user175@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Gold Coast
+user085@example.com,10/02/2027 14:00,10/02/2027 14:30,In-Person,Canberra
+user069@example.com,10/02/2027 11:30,10/02/2027 12:00,In-Person,Canberra
+user078@example.com,10/02/2027 13:30,10/02/2027 14:00,In-Person,Sydney CBD
+user179@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Canberra
+user077@example.com,10/02/2027 09:30,10/02/2027 10:00,In-Person,Parramatta
+user187@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Sydney CBD
+user049@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Geelong
+user190@example.com,10/02/2027 15:00,10/02/2027 15:30,In-Person,Canberra
+user015@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Sydney CBD
+user080@example.com,10/02/2027 16:00,10/02/2027 16:30,In-Person,Geelong
+user200@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Parramatta
+user045@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Geelong
+user064@example.com,10/02/2027 11:00,10/02/2027 11:30,In-Person,Geelong
+user093@example.com,10/02/2027 08:30,10/02/2027 09:00,Online,Geelong
+user119@example.com,10/02/2027 11:00,10/02/2027 11:30,Online,Sydney CBD
+user175@example.com,10/02/2027 16:00,10/02/2027 16:30,Online,Geelong
+user126@example.com,10/02/2027 08:00,10/02/2027 08:30,In-Person,Sydney CBD
+user122@example.com,10/02/2027 17:30,10/02/2027 18:00,Online,Parramatta
+user089@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Sydney CBD
+user073@example.com,10/02/2027 10:30,10/02/2027 11:00,Online,Geelong
+user042@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Geelong
+user166@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Parramatta
+user069@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Parramatta
+user200@example.com,10/02/2027 14:30,10/02/2027 15:00,All,Geelong
+user166@example.com,10/02/2027 08:00,10/02/2027 08:30,Online,Parramatta
+user058@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Geelong
+user183@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Sydney CBD
+user090@example.com,10/02/2027 12:00,10/02/2027 12:30,Online,Canberra
+user120@example.com,10/02/2027 15:00,10/02/2027 15:30,Online,Parramatta
+user160@example.com,10/02/2027 12:30,10/02/2027 13:00,All,Gold Coast
+user002@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Geelong
+user144@example.com,10/02/2027 16:00,10/02/2027 16:30,All,Sydney CBD
+user077@example.com,10/02/2027 17:30,10/02/2027 18:00,All,Sydney CBD
+user087@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Geelong
+user071@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Sydney CBD
+user049@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Sydney CBD
+user015@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Parramatta
+user175@example.com,10/02/2027 17:30,10/02/2027 18:00,Online,Sydney CBD
+user168@example.com,10/02/2027 10:00,10/02/2027 10:30,All,Geelong
+user108@example.com,10/02/2027 15:30,10/02/2027 16:00,Online,Sydney CBD
+user150@example.com,10/02/2027 14:00,10/02/2027 14:30,Online,Geelong
+user186@example.com,10/02/2027 17:00,10/02/2027 17:30,In-Person,Sydney CBD
+user164@example.com,10/02/2027 11:30,10/02/2027 12:00,All,Gold Coast
+user130@example.com,10/02/2027 15:30,10/02/2027 16:00,All,Sydney CBD
+user047@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Gold Coast
+user033@example.com,10/02/2027 12:30,10/02/2027 13:00,In-Person,Canberra
+user196@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Gold Coast
+user168@example.com,10/02/2027 10:30,10/02/2027 11:00,All,Sydney CBD
+user058@example.com,10/02/2027 09:00,10/02/2027 09:30,In-Person,Sydney CBD
+user096@example.com,10/02/2027 12:30,10/02/2027 13:00,Online,Sydney CBD
+user119@example.com,10/02/2027 12:00,10/02/2027 12:30,All,Sydney CBD
+user163@example.com,10/02/2027 09:30,10/02/2027 10:00,Online,Geelong
+user019@example.com,10/02/2027 17:00,10/02/2027 17:30,All,Gold Coast
+user031@example.com,10/02/2027 15:30,10/02/2027 16:00,In-Person,Gold Coast
+user106@example.com,10/02/2027 14:00,10/02/2027 14:30,All,Sydney CBD
+user052@example.com,10/02/2027 08:30,10/02/2027 09:00,In-Person,Parramatta
