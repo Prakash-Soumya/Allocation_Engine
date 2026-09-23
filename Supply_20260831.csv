@@ -1,0 +1,17 @@
+User_ID,Start_DateTime,End_DateTime,Type,Location
+Prakash.Soumya@ndis.gov.au,31/08/2026 9:30,31/08/2026 10:00,In-Person,Geelong
+Prakash.Soumya@ndis.gov.au,31/08/2026 10:00,31/08/2026 10:30,In-Person,Geelong
+Prakash.Soumya@ndis.gov.au,31/08/2026 10:30,31/08/2026 11:00,In-Person,Geelong
+Prakash.Soumya@ndis.gov.au,31/08/2026 11:00,31/08/2026 11:30,In-Person,Geelong
+Prakash.Soumya@ndis.gov.au,31/08/2026 11:30,31/08/2026 12:00,In-Person,Geelong
+Prakash.Soumya@ndis.gov.au,31/08/2026 12:00,31/08/2026 12:30,In-Person,Geelong
+Prakash.Soumya@ndis.gov.au,31/08/2026 12:30,31/08/2026 13:00,In-Person,Geelong
+Damian.Skelton@ndis.gov.au,31/08/2026 9:30,31/08/2026 10:00,All,Parramatta
+Sanann.Ahmed@ndis.gov.au,31/08/2026 9:30,2/09/2026 10:00,Online,Geelong
+abc.def@ndis.gov.au,31/08/2026 9:30,2/09/2026 10:00,Online,Geelong
+abc.def@ndis.gov.au,31/08/2026 10:00,31/08/2026 10:30,All,Geelong
+abc.def@ndis.gov.au,31/08/2026 10:30,31/08/2026 11:00,All,Geelong
+abc.def@ndis.gov.au,31/08/2026 11:00,31/08/2026 11:30,All,Geelong
+abc.def@ndis.gov.au,31/08/2026 11:30,31/08/2026 12:00,All,Geelong
+abc.def@ndis.gov.au,31/08/2026 12:00,31/08/2026 12:30,All,Geelong
+abc.def@ndis.gov.au,31/08/2026 12:30,31/08/2026 13:00,All,Geelong

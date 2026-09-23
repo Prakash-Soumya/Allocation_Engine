@@ -1,0 +1,7 @@
+Appointment_ID,Start_DateTime,End_DateTime,Type,Location,Skill_Group,Gender_Pref
+#579830,31/08/2026 9:30,31/08/2026 10:00,In-Person,Geelong,UG_001,Male
+#673201,31/08/2026 9:30,31/08/2026 10:00,Online,Parramatta,UG_001,N/A
+#779830,31/08/2026 9:30,31/08/2026 12:00,In-Person,Geelong,UG_001,Male
+#879830,31/08/2026 9:30,31/08/2026 10:00,In-Person,Geelong,UG_003,Male
+#973201,31/08/2026 9:30,31/08/2026 10:00,Online,Parramatta,UG_003,N/A
+#079830,31/08/2026 9:30,31/08/2026 12:15,Online,Geelong,UG_003,Female
